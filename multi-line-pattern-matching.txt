@@ -1,0 +1,15 @@
+>some multiline-
+>text
+---
+>in multiple chunks (this one for instance is the second of this sample)
+---
+>Their number, sizes and content are irregular
+---
+>they can't
+>be known in
+>advance
+---
+>And they'll contain pretty much any char whatsoever known or unknown in the universe
+>like 𒊺/🫘/\n/...
+---
+
